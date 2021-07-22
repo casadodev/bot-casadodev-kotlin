@@ -1,7 +1,4 @@
 # bot-casadodev-kotlin
- Implementação do chatbot feito em Kotlin
-
-# bot-twitch-kotlin
 Implementação do bot para Twitch feito em Kotlin
 
 <h2 align="center"> DE MIM, DELE, DELA, DE TODO MUNDO</h2>
